@@ -1,2 +1,2 @@
-# Olympic-Game-Quiz
-A CLI quiz app. On the Topic of Olympics Game.
+# Olympic Game Quiz
+A CLI app built with nodeJS. You can send this to your friends and find out who really knows more about Olympics.
